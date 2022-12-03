@@ -9,3 +9,4 @@ start xampp Apache and MySQL
 ![image](https://user-images.githubusercontent.com/80160850/205464305-4230f890-6266-44d2-9a7c-40ef3ded2a1b.png)
  
  open up browsetr with http://localhost/oop/index.php and thats it 
+![image](https://user-images.githubusercontent.com/80160850/205464373-b83f2633-05c5-4ae5-9386-103c675d5b60.png)
